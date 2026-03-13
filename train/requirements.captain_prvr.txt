@@ -1,0 +1,15 @@
+torch==1.13.1+cu116
+torchvision==0.14.1+cu116
+
+tensorboard==2.19.0
+tqdm
+
+numpy==1.24.4
+h5py==3.13.0
+easydict==1.13
+
+matplotlib==3.9.4
+
+transformers==4.57.1
+
+opencv-python

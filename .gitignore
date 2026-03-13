@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+
+# 忽略指定目录
+depends/
+CapTain_depends/
+
+
+# Logs / Outputs
+logs/
+outputs/
+*.zip
+*.log
+
+# Checkpoints / Models
+*.pth
+*.ckpt
+*.pt
+# *.txt
+*.json
+*.hdf5
