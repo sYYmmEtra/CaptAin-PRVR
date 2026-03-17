@@ -22,9 +22,9 @@ pip install -r requirements.captain_prvr.txt
 ## Data Dependencies
 Only the **Charades-STA** dataset needs to be downloaded for reproduction (smaller in size than ActivityNet and TVR). Complete dependency data download:  
 
-[Charades-STA Data Download Link](https://huggingface.co)
+[Charades-STA Data Download Link](https://huggingface.co/datasets/e-gf/CaptAin_depends/tree/main/charades)
 
-[Activitynet Data Download Link](https://huggingface.co)
+[Activitynet Data Download Link](https://huggingface.co/datasets/e-gf/CaptAin_depends/tree/main/activitynet)
 
 [Youcook2-PRVR Data Download Link](https://huggingface.co)
 
