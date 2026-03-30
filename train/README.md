@@ -26,7 +26,7 @@ Only the **Charades-STA** dataset needs to be downloaded for reproduction (small
 
 [Activitynet Data Download Link](https://huggingface.co/datasets/e-gf/CaptAin_depends/tree/main/activitynet)
 
-[Youcook2-PRVR Data Download Link](https://huggingface.co)
+[Youcook2-PRVR Data Download Link](https://huggingface.co/datasets/e-gf/CaptAin_depends/tree/main/youcook2)
 
 ## Caption Generation LLM Preparation
 For caption generation, you need to prepare the LLM checkpoints:
